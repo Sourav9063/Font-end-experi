@@ -35,5 +35,36 @@ h2{
     font-family: 'Lucida Sans', sans-serif;
     font-size: 2.2em;
     font-weight: bold;
+    
     margin:0;
+}
+h2 span{
+
+}
+
+.hero-bg p{
+    font-weight: bold;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    color: darkgray;
+    margin: 0 2em 4em;
+
+
+}
+
+.formcontainer{
+   
+    background-color: blueviolet;
+    margin:-1em -1em 0;
+   
+    padding: 2em;
+}
+
+label{
+    font-weight: bold;
+    display: block;
+    color: burlywood;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-bottom: 1em;
 }
